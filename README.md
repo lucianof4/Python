@@ -1,6 +1,11 @@
 # Word Guessing Game
 This is a simple word guessing game written in Python. The game fetches a random word from an API and gives you hints about the word. Your task is to guess the word one letter at a time.
 
+## API
+
+- [Random Word](https://random-word-api.herokuapp.com)
+- [Dictionary ENG - Online](https://dictionaryapi.dev/)
+
 ## Requirements
 - Python 3.6 or higher
 - requests library
